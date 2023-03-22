@@ -6,7 +6,7 @@ public class A1103346_0317_1{
       Scanner input = new Scanner(System.in);
       n = input.nextInt();
       
-      System.out.println("請輸入任意整數做為n值");
+      System.out.println("請輸入任意整數做為m值");
       Scanner in = new Scanner(System.in);
       m = in.nextInt();
       System.out.println();
